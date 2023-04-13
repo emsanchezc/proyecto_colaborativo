@@ -1,1 +1,2 @@
-# proyecto_colaborativo
+# proyecto_colaborativo front-end
+-Edwin Mauricio Sanchez Cespedes
